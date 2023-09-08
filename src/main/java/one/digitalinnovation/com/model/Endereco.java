@@ -6,7 +6,7 @@ import jakarta.persistence.*;
  * Classe gerada a partir do modelo JSON de retorno da API do ViaCEP.
  * @see <a href="https://viacep.com.br">ViaCEP</a>
  *
- * @author Rafael
+ * @author Rafael Alves Cardoso
  */
 
 @Entity
