@@ -33,9 +33,9 @@ public class ClienteServiceImpl implements ClienteService{
     private ViaCepService viaCepService;
 
 
-    //Strategy: Implementar os métdos defindos na interface.
+    //Strategy: Implementa os métdos defindos na interface.
 
-    //Facade: Abstrair integrações com subsistemas, provendo uma interface simples.
+    //Facade: Abstrai integrações com subsistemas, provendo uma interface simples.
 
     @Override
     public Iterable<Cliente> buscarTodos() {
