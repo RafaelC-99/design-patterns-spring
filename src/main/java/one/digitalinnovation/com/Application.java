@@ -11,6 +11,7 @@ import org.springframework.cloud.openfeign.EnableFeignClients;
  * - Spring Web
  * - H2 Database
  * - OpenFeign
+ * - Java Mail Sender
  *
  * @author Rafael Alves Cardoso
  */
