@@ -8,4 +8,4 @@ Repositório com as implementações dos padrões de projeto explorados no Lab "
 
 Além de possuir integração com a API ViaCEP.
 
-Projeto original: <a href="https://github.com/digitalinnovationone/lab-padroes-projeto-spring">Dio</a>
+Projeto original: <a href="https://github.com/digitalinnovationone/lab-padroes-projeto-spring">DIO</a>
